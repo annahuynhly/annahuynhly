@@ -3,6 +3,5 @@
 - :purple_heart: I’m currently learning R, constructing R packages and designing an R Shiny website
 - :no_mouth: If it isn't obvious, I am a compelete GitHub n00b. Why am I ranked A+? No idea.
 - :shit: Fun fact: In my spare time I draw and write bad fanfiction. 
--->
 
 ![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=annahuynhly&show_icons=true&theme=tokyonight)
