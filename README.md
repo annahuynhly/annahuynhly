@@ -7,5 +7,3 @@
 - :no_mouth: If it isn't obvious, I am a compelete GitHub n00b.
 - :shit: Fun fact: In my spare time I draw and write bad fanfiction. 
 -->
-
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=annahuynhly)](https://github.com/annahuynhly/github-readme-stats)
