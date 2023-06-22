@@ -1,8 +1,8 @@
 ### Greetings! 👋
-- :blue_book: I'm an applied statistics specialist and math major at UofT! I'm currently interning at Epson Canada.
-- :school: I have TA'd: MAT136, STA256, STA258, STA260, STA304, and I'm currently TAing STA305!
-- :blue_heart: I like designing R Shiny websites and creating niche R packages.
-- :shit: Fun fact: In my spare time I draw and write bad fanfiction. I drew my own picture!
+- :blue_book: I'm an applied statistics specialist and math major at UofT! I'm currently interning at Epson Canada but I am looking for summer 2024 internships in data science. I plan to pursue a masters in statistics after undergrad.
+- :school: I have TA'd: MAT136, STA256, STA258, STA260, STA304, and STA305!
+- :blue_heart: I like designing R Shiny websites.
+- :shit: Fun fact: In my spare time I draw. My dream is to create my own webtoon.
 
 <p>
  <a href="https://www.linkedin.com/in/anna-ly-statistics-specialist/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
