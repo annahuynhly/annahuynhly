@@ -1,7 +1,7 @@
 ### Greetings! 👋
-- :blue_book: I'm an applied statistics specialist and math major at UofT! I'm currently interning at Epson Canada but I am looking for summer 2024 internships in data science. I plan to pursue a masters in statistics after undergrad.
-- :school: I have TA'd: MAT136, STA256, STA258, STA260, STA304, and STA305!
-- :blue_heart: I like designing R Shiny websites.
+- :blue_book: I'm an applied statistics specialist and math major at UofT! 
+- :school: I have TA'd: MAT136, STA256, STA258, STA260, STA304, and STA305.
+- :blue_heart: I have lots of experience with R, and currently as a research assistant I am making R-Shiny websites!
 - :shit: Fun fact: In my spare time I draw. My dream is to create my own webtoon.
 
 <p>
