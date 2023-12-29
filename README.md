@@ -1,8 +1,9 @@
 ### Greetings! 👋
-- :blue_book: I'm an applied statistics specialist and math major at UofT! 
+- :blue_book: I'm an applied statistics specialist and math major at UofT.
+- :seedling: Next fall, I will be pursuing a master's in statistics.
 - :school: I have TA'd: MAT136, STA256, STA258, STA260, STA304, and STA305.
-- :blue_heart: I have lots of experience with R, and currently as a research assistant I am making R-Shiny websites!
-- :shit: Fun fact: In my spare time I draw. My dream is to create my own webtoon.
+- :blue_heart: I am currently a research assistant, creating R-Shiny websites for Mike Evans & Luai Al Labadi.
+- :shit: Fun fact: My dream is to create my own webtoon.
 
 <p>
  <a href="https://www.linkedin.com/in/anna-ly-statistics-specialist/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -14,6 +15,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="r" alt="r" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
 </div>
 <br>
 
