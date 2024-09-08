@@ -1,8 +1,6 @@
 ### Greetings! 👋
-- :blue_book: I'm an applied statistics specialist and math major at UofT.
-- :seedling: Next fall, I will be pursuing a master's in statistics.
-- :school: I have TA'd: MAT136, STA256, STA258, STA260, STA304, and STA305.
-- :blue_heart: I am currently a research assistant, creating R-Shiny websites for Mike Evans & Luai Al Labadi.
+- :blue_book: I'm an applied statistics specialist and math major alumni from UofT.
+- :red_book: I'm currently pursuing graduate studies (thesis) at McMaster.
 - :shit: Fun fact: My dream is to create my own webtoon.
 
 <p>
