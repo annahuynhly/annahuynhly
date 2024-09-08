@@ -1,6 +1,6 @@
 ### Greetings! 👋
 - :blue_book: I'm an applied statistics specialist and math major alumni from UofT.
-- :red_book: I'm currently pursuing graduate studies (thesis) at McMaster.
+- :closed_book: I'm currently pursuing graduate studies (thesis) at McMaster.
 - :shit: Fun fact: My dream is to create my own webtoon.
 
 <p>
