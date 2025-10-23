@@ -1,6 +1,6 @@
 ### Greetings! 👋
-- :closed_book: About to complete my MSc in Statistics at McMaster.
-- :blue_book: I completed my undergraduate degree at UofT.
+- :closed_book: Recently completed a MSc in Statistics at McMaster.
+- :blue_book: Applied statistics specialist alumni from UTM.
 - :shit: Fun fact: If I weren't pursuing academia, I would've wanted to create webcomics in the tragedy genre.
 
 <p>
